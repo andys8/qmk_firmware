@@ -77,7 +77,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* Backlight options */
 
-#define RGB_BACKLIGHT_ENABLED 1
+#define RGB_BACKLIGHT_ENABLED 0
 
 #define RGB_BACKLIGHT_HS60
 
